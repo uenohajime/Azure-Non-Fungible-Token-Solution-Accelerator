@@ -1016,7 +1016,7 @@
               "properties": {
                 "dnsPrefix": "[parameters('aksName')]",
                 "enableRBAC": true,
-                "kubernetesVersion": "1.21.9",
+                "kubernetesVersion": "1.25.6",
                 "agentPoolProfiles": [
                   {
                     "name": "tokensvc",
